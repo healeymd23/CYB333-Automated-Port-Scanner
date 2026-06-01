@@ -1,0 +1,1 @@
+Sample scan results will be stored here.
