@@ -68,7 +68,7 @@ python port_scanner.py
 
 Enter Target IP or Hostname:
 
-192.168.1.1
+127.0.0.1
 
 Scanning common ports...
 
