@@ -70,15 +70,19 @@ Enter Target IP or Hostname:
 
 127.0.0.1
 
-Scanning common ports...
+Choose scan type: Common ports or Custom range.
+
+Common ports examples...
 
 Port 22: Open
 
-Port 80: Open
+Port 80: Closed
 
 Port 443: Open
 
 Scan Complete.
+
+Creates a file with scan results.
 
 ## Educational Use Notice
 
